@@ -2,4 +2,4 @@
 
 ## Balanço
 
-Gerar automaticamente o balanço do mês a partir do arquivo csv do extrato do Cota enviado pelo email 
+Gerar automaticamente o balanço do mês a partir do arquivo csv do extrato do Cora enviado pelo email 
